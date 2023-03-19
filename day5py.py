@@ -117,9 +117,6 @@ obj.getmarks()
 
 if(obj.check_qualification(x,y)):
     obj.choose_course()
- '''
-
-
-           fssdfd     
+ '''   
             
 
